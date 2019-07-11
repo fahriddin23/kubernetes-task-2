@@ -1,3 +1,7 @@
-# kubernetes-task-2
-## TASK
-![alt text](task.jpg)
+# kubernetes-project2
+---
+
+
+##TASK
+
+![](images/image.jpg)
